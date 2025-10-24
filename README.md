@@ -36,8 +36,8 @@ To analyze sales data from an Indian chai shop and identify:
 ## 📂 Files in This Repository
 | File | Description |
 |------|--------------|
-| `chaiOrdersData.xlsx` | Raw dataset containing all chai shop transactions |
-| `chaiOrdersProject.xlsx` | Cleaned, structured, and analyzed data with a dynamic Excel dashboard |
+| `coffeeOrdersData.xlsx` | Raw dataset containing all chai shop transactions |
+| `coffeeOrdersProject.xlsx` | Cleaned, structured, and analyzed data with a dynamic Excel dashboard |
 
 ---
 
