@@ -79,5 +79,5 @@ To analyze coffee shop transaction data in order to:
 **LeetCode:** https://leetcode.com/u/bnsairam_14  
 **Email:** bnsairam14@gmail.com  
 
-If you found this project useful, please give it a ⭐ on GitHub — it motivates me to build more projects!
+If you found this project useful, please give it a ⭐ on GitHub  it motivates me to build more projects!
 
