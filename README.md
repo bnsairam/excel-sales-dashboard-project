@@ -1,91 +1,83 @@
-# 📊 Excel Sales Dashboard Project
+# 📊 Excel Coffee Sales Dashboard Project
 
-## 🪔 Overview  
-The **Excel Sales Dashboard Project** is a data analytics case study focused on exploring and visualizing **chai shop sales data** from India.  
-The goal was to transform raw transaction data into an **interactive dashboard** that helps understand customer behavior, product trends, and key business insights.
-
-This project demonstrates my ability to use **Microsoft Excel** for real-world business analytics — from **data cleaning** to **insightful visualization**.
+## 📝 Overview
+This project focuses on analyzing **coffee shop sales data** and creating a **fully interactive Excel dashboard** to uncover actionable business insights.  
+It demonstrates skills in **data cleaning**, **analytics**, **KPI development**, and **dashboard visualization** using Microsoft Excel.
 
 ---
 
-## 🎯 Objective  
-To analyze sales data from an Indian chai shop and identify:
-- The most popular beverages and top-selling categories  
-- Monthly sales and revenue performance  
-- Key performance indicators (KPIs) such as total sales, orders, and average order value  
-- Customer and regional purchase trends  
+## 🎯 Project Objective
+To analyze coffee shop transaction data in order to:
+- Identify **top-selling coffee products**
+- Understand **sales trends over time**
+- Explore **customer purchasing behavior**
+- Track **key performance indicators (KPIs)** like revenue, orders, and average order value
 
 ---
 
-## ⚙️ Tools & Skills Used  
-- **Microsoft Excel**
-  - Data Cleaning & Transformation  
-  - Lookup Functions: `XLOOKUP`, `VLOOKUP`, `IF`, `COUNTIFS`  
-  - Pivot Tables & Pivot Charts  
-  - Conditional Formatting & Dynamic Ranges  
-  - Slicers for Interactive Filtering  
-
-- **Data Analytics Skills**
-  - Exploratory Data Analysis (EDA)  
-  - Dashboard Design & Visualization  
-  - Business KPI Development  
-  - Data Storytelling  
+## ⚙️ Tools & Skills Used
+| Category | Skills / Tools |
+|---------|----------------|
+| Software | Microsoft Excel |
+| Data Processing | Data Cleaning, Data Transformation |
+| Excel Functions | `XLOOKUP`, `VLOOKUP`, `IF`, `COUNTIFS`, `TEXT`, `PivotTables` |
+| Visualization | Pivot Charts, Conditional Formatting, Slicers |
+| Analytics | KPI Metrics, Trend Analysis, Business Data Storytelling |
 
 ---
 
 ## 📂 Files in This Repository
-| File | Description |
-|------|--------------|
-| `coffeeOrdersData.xlsx` | Raw dataset containing all chai shop transactions |
-| `coffeeOrdersProject.xlsx` | Cleaned, structured, and analyzed data with a dynamic Excel dashboard |
+| File Name | Description |
+|----------|-------------|
+| **coffeeOrdersData.xlsx** | Raw transactional coffee shop sales dataset |
+| **coffeeOrdersProject.xlsx** | Cleaned data + Interactive Dashboard (Final Output) |
 
 ---
 
-## 🔍 Key Insights
-- ☕ **Top Beverages:** Masala Chai, Filter Coffee, and Elaichi Chai were the most popular items.  
-- 📈 **Sales Growth:** Consistent upward trend in monthly sales, peaking during winter months.  
-- 👥 **Customer Behavior:** Loyal customers tend to purchase higher-value beverages more frequently.  
-- 🏙️ **Regional Trends:** Strongest sales observed in metro regions like Bengaluru, Delhi, and Mumbai.  
-- 💰 **Revenue Breakdown:** Premium chai and coffee options contributed significantly to overall revenue.
+## 🔍 Key Insights from the Dashboard
+- **Best Selling Items:** Classic Espresso and Cappuccino consistently lead in orders.
+- **Sales Trend:** Noticeable **increase in sales during mornings and weekends**.
+- **Customer Patterns:** Higher average bill value observed in bulk and repeated orders.
+- **Product Pricing Impact:** Premium beverages contribute more to revenue despite fewer orders.
 
 ---
 
-## 📊 Dashboard Highlights
-- **Dynamic Filters:** Filter by beverage type, date, or region  
-- **Key Metrics:** Total Revenue, Orders, and Average Order Value  
-- **Charts:** Monthly Sales, Product-Wise Revenue, Regional Performance  
-- **Interactive Experience:** Slicers and conditional formatting for easy data exploration  
+## 📊 Dashboard Features
+- **Dynamic Slicers** for filtering by:
+  - Product
+  - Category
+  - Time / Date Range
+- **KPIs Displayed:**
+  - Total Revenue
+  - Total Orders
+  - Average Order Value (AOV)
+- **Visual Charts:**
+  - Monthly Sales Trend Chart
+  - Product-wise Revenue Comparison Chart
+  - Category Performance Breakdown
 
 ---
 
 ## 💡 What I Learned
-- Cleaning and organizing raw data for analysis  
-- Using Excel formulas for automation and validation  
-- Building interactive dashboards that communicate insights effectively  
-- Presenting data stories tailored to business decision-making  
+- How to transform raw transactional data into structured analytics-ready format.
+- Designing dashboards that are **clear, interactive, and business-relevant**.
+- Applying Excel functions to automate analysis and reduce manual workload.
+- Presenting insights in a way that supports **decision-making**.
 
 ---
 
 ## 🚀 Future Enhancements
-- Integrate data automation using **Power Query**  
-- Develop an interactive version using **Power BI**  
-- Perform **RFM (Recency, Frequency, Monetary)** segmentation to analyze customer loyalty  
+- Automate data refresh using **Power Query**
+- Convert dashboard to **Power BI** for web-based reporting
+- Add **RFM (Recency, Frequency, Monetary)** analysis for customer segmentation
 
 ---
 
-## 🧑‍💼 About Me
-I’m **Sairam**, a data analytics enthusiast passionate about turning real-world business data into insights that drive growth.  
-This project reflects my skills in **Excel analytics, data visualization, and business storytelling**.
+## 👤 About Me
+**Name:** Sairam  
+**Portfolio:** https://bnsairam.vercel.app  
+**LeetCode:** https://leetcode.com/u/bnsairam_14  
+**Email:** bnsairam14@gmail.com  
 
-- 🌐 **Portfolio:** [bnsairam.vercel.app](https://bnsairam.vercel.app)  
-- 💻 **LeetCode:** [leetcode.com/u/bnsairam_14](https://leetcode.com/u/bnsairam_14/)  
-- 📧 **Email:** [bnsairam14@gmail.com](mailto:bnsairam14@gmail.com)
+If you found this project useful, please give it a ⭐ on GitHub — it motivates me to build more projects!
 
----
-
-## 🏷️ Keywords  
-`Excel` • `Data Analytics` • `Dashboard` • `Business Intelligence` • `Data Visualization` • `EDA` • `Chai Sales` • `India`
-
----
-
-### ⭐ If you like this project, consider giving it a star on GitHub — it helps me grow as a data analyst!
