@@ -19,7 +19,7 @@ To analyze coffee shop transaction data in order to:
 | Category | Skills / Tools |
 |---------|----------------|
 | Software | Microsoft Excel |
-| Data Processing | Data Cleaning, Data Transformation |
+| Data Processing |Data Cleaning, Data Transformation |
 | Excel Functions | `XLOOKUP`, `VLOOKUP`, `IF`, `COUNTIFS`, `TEXT`, `PivotTables` |
 | Visualization | Pivot Charts, Conditional Formatting, Slicers |
 | Analytics | KPI Metrics, Trend Analysis, Business Data Storytelling |
